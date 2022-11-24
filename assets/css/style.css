@@ -34,3 +34,22 @@ body {
     text-align: right;
     font-size: 250%;
   }
+
+  nav li {
+    display: inline;
+    padding: 10px 10px 10px 0;
+    font-size: 20px;
+    list-style: none;
+    margin: 0;
+  }
+
+  nav a {
+    color: var(--White);
+    font-weight:bold;
+  }
+
+/* Modify link colour on mouse hover */
+  
+    nav a:hover {
+    color: var(--Orange)
+    }
