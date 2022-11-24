@@ -100,3 +100,12 @@ body {
     color: var(--violet);
     margin: 15px; 
 }
+
+/* 'Work' heading has vertical span of 3 grid cells. */
+
+#work {
+    grid-row-start: 2;
+    grid-row-end: 5;
+}
+
+
