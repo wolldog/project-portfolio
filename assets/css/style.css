@@ -219,6 +219,19 @@ figcaption h4, h5 {
     font-weight: bold;
 }
 
+/* Set link color to orange on mouse over */
+
+.contact-links a:hover {
+    color: var(--Orange);
+}
+
+/* Image for Work in progress links */
+
+.wip {
+    background-image: url(../images/WIP.png);
+    background-size: cover;
+}
+
 
 
 
