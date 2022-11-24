@@ -196,6 +196,29 @@ figcaption h4, h5 {
     opacity: 100%;
 }
 
+/* Contact link section has a horizontal span of 2 grid cells */
+
+.contact-links {
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+
+.contact-links ul {
+    
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+
+.contact-links li {
+    list-style: none;
+}
+
+.contact-links a {
+    color: var(--violet);
+    font-weight: bold;
+}
+
 
 
 
