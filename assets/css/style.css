@@ -161,6 +161,35 @@ figcaption h4, h5 {
     font-size: 120%;
 }
 
+/* Minor project gallery format */
+
+.minor-project { 
+    background-size: cover;
+    border: 3px solid var(--Mustard);
+    width: 100%;
+    height: 25vh;
+    position: relative;
+    opacity: 60%;
+}
+
+/* Minor project images */
+
+#project1 {
+        background-image: url(../images/LEDS.png);
+}
+
+#project2 {
+    background-image: url(../images/calculator1.png);
+    }
+
+#project3 {
+    background-image: url(../images/puzzle.png);    
+}
+
+#project4 {
+    background-image: url(../images/running.jpg);  
+}
+
 
 
 
