@@ -190,6 +190,12 @@ figcaption h4, h5 {
     background-image: url(../images/running.jpg);  
 }
 
+/* Set opacity of project images to 100% on mouse over */
+
+.minor-project:hover {
+    opacity: 100%;
+}
+
 
 
 
