@@ -284,6 +284,38 @@ figcaption h4, h5 {
         align-items: center;
 
     }
+}
+/* Formating for screens smaller than 481 wide.  */
+    @media screen and (max-width: 480px ){
+
+    /* Change flex direction to column  */
+        header {
+            flex-direction: column;
+        }
+/* 
+        Format header and links for column format */
+        h1 {
+            width: 90%;
+            margin: auto;
+            text-align: center;
+        }
+
+        nav {
+            width: 90%;
+        }
+
+            nav li {
+        background-color: #7B1E7A;
+        text-align: center;
+        margin: 2px 0;      
+        }
+
+        /* Hide subtitle */
+       .banner h2 {
+        display: none;
+       }
+    }
+
 
 
 
