@@ -86,3 +86,17 @@ body {
     column-gap: 10px;
     margin: 30px;
 }
+
+/* Content headings in left hand column */
+
+.headings-column {
+    border-right: 5px solid var(--violet);
+    text-align: right;
+    padding-right: 15px;
+}
+
+.headings-column h3 {
+    font-size: 40px;
+    color: var(--violet);
+    margin: 15px; 
+}
