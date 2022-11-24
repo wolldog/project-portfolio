@@ -139,6 +139,13 @@ body {
     opacity: 100%;
 }
 
+/* Create invisible link for background images */
+
+.invisible-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
 
 
 
