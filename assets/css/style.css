@@ -53,3 +53,25 @@ body {
     nav a:hover {
     color: var(--Orange)
     }
+
+/* Profile picture and subtitle banner */
+  
+.banner {
+    display: flex;
+    background:  url(../images/Profile\ thumbnail1.jpg) center left 2%, url(../images/banner-backgound.jpg) top left;
+    background-size: 150px, cover;
+    background-repeat: no-repeat;
+    min-height: 30vh;
+    position: relative;
+    }
+
+/* Subtitle */
+
+.banner h2 {
+    position: absolute;
+    top: 50%;
+    right: 1%;
+    background-color: var(--purple);
+    padding: 10px;
+    color: var(--White);
+}
