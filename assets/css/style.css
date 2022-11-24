@@ -147,6 +147,20 @@ body {
     height: 100%;
 }
 
+/* Captions for project images */
+
+figcaption {
+    background-color: var(--Mustard) ;
+    padding: 10px;
+    width: fit-content;
+    position: absolute;
+    top: 50%;           
+}
+
+figcaption h4, h5 {
+    font-size: 120%;
+}
+
 
 
 
