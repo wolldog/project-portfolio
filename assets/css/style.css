@@ -108,4 +108,13 @@ body {
     grid-row-end: 5;
 }
 
+/* 'About me text has horizontal span of 2 grid cells */
+ 
+.content {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    font-size: large;
+
+}
+
 
