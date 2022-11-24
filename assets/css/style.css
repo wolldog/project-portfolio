@@ -117,4 +117,22 @@ body {
 
 }
 
+/* Main project image has horizontal span of 2 grid cells */
+
+.main-project {
+    background-image: url(../images/Surf.png);
+    background-size: cover;
+    border: 3px solid var(--Mustard);
+    margin: auto;
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    opacity: 60%;
+    grid-column-start: 2;
+    grid-column-end: 4;
+
+}
+
+
+
 
