@@ -133,6 +133,13 @@ body {
 
 }
 
+/* Set opacity of project images to 100% on mouse over */
+
+.main-project:hover {
+    opacity: 100%;
+}
+
+
 
 
 
