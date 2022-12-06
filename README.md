@@ -15,9 +15,10 @@ The project is an opportunity to show off my talents and includes functionality 
 - A flair for user appeal
 - Well structured HTML and CSS
 
-The page is based on the following sample:
+### The finished portfolio
 
-![Sample portfolio](https://user-images.githubusercontent.com/110208272/203786212-a6ce3331-b161-4937-a838-63daae48d4b2.jpg)
+![Image of portfolio landing page](https://user-images.githubusercontent.com/110208272/205839044-bd441ac8-faa4-4f67-b776-0118a531c1fa.png)
+
 
 ## Installation
 
@@ -34,3 +35,4 @@ The page is based on the following sample:
  ## License
 
  N/A
+
