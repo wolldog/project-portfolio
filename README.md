@@ -26,7 +26,7 @@ The project is an opportunity to show off my talents and includes functionality 
 
  ## Usage
 
- N/A
+ [Link to Portfolio](https://wolldog.github.io/project-portfolio/)
 
  ## Credits
 
