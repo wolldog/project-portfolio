@@ -230,6 +230,7 @@ figcaption h4, h5 {
 .wip {
     background-image: url(../images/WIP.png);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* Formating for screens between 768px and 481 wide.  */
