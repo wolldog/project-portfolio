@@ -17,6 +17,8 @@ The project is an opportunity to show off my talents and includes functionality 
 
 ### The finished portfolio
 
+ [Link to Portfolio](https://wolldog.github.io/project-portfolio/)
+
 ![Image of portfolio landing page](https://user-images.githubusercontent.com/110208272/205839044-bd441ac8-faa4-4f67-b776-0118a531c1fa.png)
 
 
