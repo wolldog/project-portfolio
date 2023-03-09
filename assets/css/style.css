@@ -120,7 +120,7 @@ body {
 /* Main project image has horizontal span of 2 grid cells */
 
 .main-project {
-    background-image: url("..\images\share-shed.jpg");
+    background-image: url(../images/share-shed.jpg);
     background-size: cover;
     border: 3px solid var(--Mustard);
     margin: auto;
